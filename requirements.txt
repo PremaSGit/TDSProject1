@@ -1,5 +1,7 @@
 Flask
-flask-cors
+Flask-Cors
 requests
-sentence-transformers
 Pillow
+sentence-transformers
+fastapi
+uvicorn
