@@ -1,7 +1,12 @@
 Flask
-Flask-Cors
+flask-cors
 requests
 Pillow
 sentence-transformers
 fastapi
 uvicorn
+beautifulsoup4
+markdown
+pandas
+speechrecognition
+duckdb
